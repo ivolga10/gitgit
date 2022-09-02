@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 new text
 new text2
 next text local1
+modify by "second user2" locally
